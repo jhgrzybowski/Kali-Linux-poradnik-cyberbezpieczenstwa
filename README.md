@@ -5,7 +5,7 @@ Pierwsza wersja poradnika została wydana 26 stycznia 2023.
 
 Druga wersja poradnika została wydana 29 maja 2023.
 Poradnik posiada 102 strony, w co wchodzi:
-- 12 opisanych urządzeń
+- 12 opisanych narzędzi
 - blisko 60 definicji z cyberbezpieczeństwa
 - rozdziały wprowadzające w tematykę sieci komputerowych jak i cyberbezpieczeństwa
 
